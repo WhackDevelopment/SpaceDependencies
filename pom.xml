@@ -89,7 +89,7 @@
                             <goal>shade</goal>
                         </goals>
                         <configuration>
-                            <minimizeJar>true</minimizeJar>
+                            <minimizeJar>false</minimizeJar>
                             <shadedClassifierName>shaded</shadedClassifierName>
                             <shadedArtifactAttached>true</shadedArtifactAttached>
                             <finalName>SpaceDependencies-${project.version}</finalName>
