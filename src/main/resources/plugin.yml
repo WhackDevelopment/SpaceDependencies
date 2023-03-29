@@ -1,0 +1,7 @@
+main: de.safespacegerman.dependencies.SpaceDependencies
+name: SpaceDependencies
+version: ${project.version}
+api-version: 1.19
+
+authors:
+  - LuciferMorningstarDev
