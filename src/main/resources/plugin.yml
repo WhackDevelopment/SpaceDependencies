@@ -3,7 +3,9 @@ name: SpaceDependencies
 version: ${project.version}
 api-version: 1.19
 
+website: https://whackdevelopment.com
+
 authors:
-  - LuciferMorningstarDev
+  - 'whackdevelopment.com'
 
 load: STARTUP
